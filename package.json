@@ -1,0 +1,21 @@
+{
+  "name": "new_repo_pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/dapaletilapia/new_repo_pipeline#readme",
+  "bugs": {
+    "url": "https://github.com/dapaletilapia/new_repo_pipeline/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dapaletilapia/new_repo_pipeline.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  }
+}
